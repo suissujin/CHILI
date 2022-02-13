@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;800;900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Monument Extended";
+  src: url("../static/fonts/MonumentExtended-Regular.woff2") format("woff2"),
+    url("../static/fonts/MonumentExtended-Light.woff2") format("woff2"),
+    url("../static/fonts/MonumentExtended-Black.woff2") format("woff2");
+}
+
+body {
+  font-family: "Rubik", sans-serif;
+  @apply bg-black text-white text-2xl;
+}
+
+.special-font {
+  font-family: "Monument Extended", sans-serif;
+}
+
+h1 {
+  @apply text-6xl;
+}
+h2 {
+  @apply text-5xl;
+}
+h3 {
+  @apply text-4xl;
+}
+h4 {
+  @apply text-3xl;
+}
+h5 {
+  @apply text-2xl;
+}
+h6 {
+  @apply text-xl;
+}
