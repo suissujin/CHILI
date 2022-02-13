@@ -86,18 +86,18 @@
         <Paragraph
           id="step1"
           words={[
-            ["Topf", "Öl", "Zimmer"],
             "in grosser",
             ["Pfanne", "Feuer", "Anlage"],
             "erhitzen,",
+            "glasig sind.",
             "geschnittener",
+            ["Topf", "Öl", "Zimmer"],
             ["Wasser", "Knoblauch", "Gewürz"],
             "und",
-            ["Glas", "Zwiebeln", "Messer"],
             "hinzufügen,",
             "kochen bis",
+            ["Glas", "Zwiebeln", "Messer"],
             ["Ofen", "Zwiebeln", "Eigentum"],
-            "glasig sind.",
           ]}
           solution="Öl in grosser Pfanne erhitzen, geschnittener Knoblauch und Zwiebeln hinzufügen, kochen bis Zwiebeln glasig sind."
         />
@@ -113,11 +113,11 @@
           <Paragraph
             id="step2"
             words={[
-              ["Wasser", "Fleisch", "Papier"],
-              "hinzugeben und",
-              "auf hoher",
               ["Menge", "Hitze", "Pfanne"],
+              "hinzugeben und",
               "anbraten.",
+              "auf hoher",
+              ["Wasser", "Fleisch", "Papier"],
             ]}
             solution="Fleisch hinzugeben und auf hoher Hitze anbraten."
           />
@@ -140,13 +140,13 @@
           <Paragraph
             id="step3"
             words={[
-              ["Anzahl", "Gewürze", "Feuer"],
-              "und",
               ["unscharfe Dinge", "wage Menge", "milde Chili"],
+              "und",
               "hinzugeben,",
-              "weiter kochen bis",
+              ["Anzahl", "Gewürze", "Feuer"],
               ["der Topf", "das Fleisch", "die Menge"],
               "durch ist.",
+              "weiter kochen bis",
             ]}
             solution="Gewürze und milde Chili hinzugeben, weiter kochen bis das Fleisch durch ist."
           />
@@ -169,14 +169,14 @@
           <Paragraph
             id="step4"
             words={[
-              "In neuen",
               "geben,",
               ["Glas", "Topf", "Gewürz"],
-              ["Messer, Gabel", "Bohnen, Tomaten", "Nieren, Leber"],
+              "In neuen",
               "und",
               ["Öl", "Abgas", "Wasser"],
-              "hinzugeben,",
               "aufkochen.",
+              ["Messer, Gabel", "Bohnen, Tomaten", "Nieren, Leber"],
+              "hinzugeben,",
             ]}
             solution="In neuen Topf geben, Bohnen, Tomaten und Wasser hinzugeben, aufkochen."
           />
@@ -199,11 +199,11 @@
           <Paragraph
             id="step5"
             words={[
-              "Auf",
               ["kleiner Höhe", "grosser Bemühung", "niedriger Hitze"],
-              "40 - 90",
-              ["Distanz", "Gramm", "Minuten"],
+              "Auf",
               "köcheln lassen.",
+              ["Distanz", "Gramm", "Minuten"],
+              "40 - 90",
             ]}
             solution="Auf niedriger Hitze 40 - 90 Minuten köcheln lassen."
           />
@@ -226,11 +226,11 @@
           <Paragraph
             id="step6"
             words={[
-              "Abschmecken",
-              "und mit",
               ["Balast", "Pfanne", "Brot"],
-              "oder",
+              "und mit",
+              "Abschmecken",
               ["Teller", "mehreren", "Reis"],
+              "oder",
               "servieren.",
             ]}
             solution="Abschmecken und mit Brot oder Reis servieren."
