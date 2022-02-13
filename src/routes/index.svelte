@@ -102,7 +102,7 @@
           solution="Öl in grosser Pfanne erhitzen, geschnittener Knoblauch und Zwiebeln hinzufügen, kochen bis Zwiebeln glasig sind."
         />
       </div>
-      <img class="w-72" src="../static/images/richtig1.jpg" alt="" />
+      <img class="w-72" src="/images/richtig1.jpg" alt="" />
 
       {#if $completedSteps.step1}
         <div
@@ -125,7 +125,7 @@
         <img
           transition:fly={{ y: 200, duration: 900 }}
           class="w-72"
-          src="../static/images/richtig2.jpg"
+          src="/images/richtig2.jpg"
           alt=""
         />
       {/if}
@@ -154,7 +154,7 @@
         <img
           transition:fly={{ y: 200, duration: 900 }}
           class="w-72"
-          src="../static/images/richtig3.jpg"
+          src="/images/richtig3.jpg"
           alt=""
         />
       {/if}
@@ -184,7 +184,7 @@
         <img
           transition:fly={{ y: 200, duration: 900 }}
           class="w-72"
-          src="../static/images/richtig4.jpg"
+          src="/images/richtig4.jpg"
           alt=""
         />
       {/if}
@@ -211,7 +211,7 @@
         <img
           transition:fly={{ y: 200, duration: 900 }}
           class="w-72"
-          src="../static/images/richtig5.jpg"
+          src="/images/richtig5.jpg"
           alt=""
         />
       {/if}
@@ -239,7 +239,7 @@
         <img
           transition:fly={{ y: 200, duration: 900 }}
           class="w-72"
-          src="../static/images/richtig6.jpg"
+          src="/images/richtig6.jpg"
           alt=""
         />
       {/if}
@@ -271,7 +271,7 @@
         <img
           transition:fly={{ y: 200, duration: 800 }}
           class="w-72"
-          src="../static/images/richtigtipp.jpg"
+          src="/images/richtigtipp.jpg"
           alt=""
         />
       {/if}
