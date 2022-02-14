@@ -48,7 +48,7 @@
       class="z-20 absolute cursor-default shadow-lg bg-white p-4 mt-2 rounded whitespace-nowrap"
       use:clickOutside
       on:outclick={() => (tooltip = false)}
-      transition:slide={{ duration: 200 }}
+      in:slide={{ duration: 200 }}
     >
       <svg
         class="absolute text-white fill-current -mt-2 ml-1 left-0 top-0"
