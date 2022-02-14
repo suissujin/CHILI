@@ -46,7 +46,9 @@
     <p>
       Das Besuchen und Interagieren mit der Seite an sich, ist nicht wirklich
       ein Spiel. Mit dem intuitiven Designen des Benutzerinterfaces, ist das
-      Navigieren auf der Webseite aber als Spiel gestaltet.
+      Navigieren auf der Webseite aber als Spiel gestaltet. Das Design der Seite
+      ist modern gehalten und passend zum Portfolio-Konzept brutal und
+      monochrome.
     </p>
     <div class="flex justify-end">
       <h4 class="mt-20 special-font">Yana Yapici, 2022</h4>
