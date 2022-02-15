@@ -37,11 +37,11 @@
         <p>
           Dieses Rezept erinnert mich immer besonders an die warmen Abende,
           welche ich vor dem Freuer sitztend mit diesem Rezept verbrachte. Nach
-          einem langen Tag gab es nichts besseres. Die Zutaten fan ich dabei auf
-          den jeweiligen Märkten, voller lokaler Waren. Chillis aller Art! Doch
-          für den ungewohnten Leser habe ich das Rezept etwas angepasst. Auch
-          ohne original mexikanischer Schoten ist dieses Rezept umwerfend - und
-          einfach obendrein. Auf was wartest du? Los Kochen!
+          einem langen Tag gab es nichts Besseres. Die Zutaten fand ich dabei
+          auf den jeweiligen Märkten, voller lokaler Waren. Chillis aller Art!
+          Doch für den ungewohnten Leser habe ich das Rezept etwas angepasst.
+          Auch ohne original mexikanischer Schoten ist dieses Rezept umwerfend -
+          und einfach obendrein. Auf was wartest du? Los Kochen!
         </p>
       </div>
     </div>
@@ -86,18 +86,17 @@
         <Paragraph
           id="step1"
           words={[
+            ["Topf", "Öl", "Zimmer"],
             "in grosser",
             ["Pfanne", "Feuer", "Anlage"],
-            "erhitzen,",
-            "glasig sind.",
-            "geschnittener",
-            ["Topf", "Öl", "Zimmer"],
+            "erhitzen, geschnittener",
             ["Wasser", "Knoblauch", "Gewürz"],
             "und",
             "hinzufügen,",
+            ["Ofen", "Zwiebeln", "Eigentum"],
             "kochen bis",
             ["Glas", "Zwiebeln", "Messer"],
-            ["Ofen", "Zwiebeln", "Eigentum"],
+            "glasig sind.",
           ]}
           solution="Öl in grosser Pfanne erhitzen, geschnittener Knoblauch und Zwiebeln hinzufügen, kochen bis Zwiebeln glasig sind."
         />
@@ -171,14 +170,13 @@
             words={[
               "geben,",
               ["Glas", "Topf", "Gewürz"],
-              "In neuen",
-              "und",
-              ["Öl", "Abgas", "Wasser"],
+              "In einen",
               "aufkochen.",
-              ["Messer, Gabel", "Bohnen, Tomaten", "Nieren, Leber"],
-              "hinzugeben,",
+              ["Messer und Gabel", "Bohnen und Tomaten", "Nieren und Leber"],
+              ["Löffel,", "Wasser,", "Gehirn,"],
+              "hinzufügen,",
             ]}
-            solution="In neuen Topf geben, Bohnen, Tomaten und Wasser hinzugeben, aufkochen."
+            solution="In einen Topf geben, Wasser, Bohnen und Tomaten hinzufügen, aufkochen."
           />
         </div>
         <img

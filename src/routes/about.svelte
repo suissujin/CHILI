@@ -50,6 +50,11 @@
       ist modern gehalten und passend zum Portfolio-Konzept brutal und
       monochrome.
     </p>
+    <p>
+      Gerne hätte ich etwas mehr Zeit für das Projekt gehabt. Weiteres
+      Playtesting und die Implementierung weiterer Features mussten gestrichen
+      werden.
+    </p>
     <div class="flex justify-end">
       <h4 class="mt-20 special-font">Yana Yapici, 2022</h4>
     </div>

@@ -9,7 +9,7 @@
     flipDurationMs: 200,
     dropFromOthersDisabled: true,
     dragDisabled: false,
-    dropTargetStyle: { outline: "" },
+    dropTargetStyle: { outline: "rgba(255, 255, 255, 0.5) solid 2px" },
   }
 
   export let id
@@ -42,7 +42,7 @@
 
 <div>
   <p
-    class="flex flex-row flex-wrap text-3xl"
+    class="flex flex-row flex-wrap text-3xl rounded"
     use:dndzone={{ items: $paragraphs[id], ...dndOpts }}
     on:consider={handleSort}
     on:finalize={handleSort}
